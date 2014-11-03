@@ -22,3 +22,9 @@ This README would normally document whatever steps are necessary to get your app
 
 * Repo owner or admin => Ravi Gurnani (rgurnani@yahoo-inc.com)
 * Other community or team contact
+
+GIF location:
+============
+
+https://github.com/ravigurnani/SimpleToDoList/blob/master/SimpleToDo.gif
+
